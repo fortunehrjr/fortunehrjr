@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fortunehrjr
-- 👀 I’m interested in web-development
+- 👋 Hi, I’m Fortune 
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning javascript 
-- 📫 How to reach me instagram; fortune_hr
+- 📫 How to reach me Email; hosearamonjr@gmail.com
 
 <!---
 fortunehrjr/fortunehrjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
