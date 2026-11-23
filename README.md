@@ -1,44 +1,29 @@
-## 
-<h1 align="center" >Hello World 🤭, I'm Fortune</h1>
-
-<h3 align="center">I'm a passionate Frontend Developer and Creative UI/UX Designer From in Lagos, Nigeria.</h3>
+<h1 align="center">Hi, I'm Fortune 👋</h1>
+<p align="center"><b>Full Stack Developer · Software Engineer</b><br>St. John's, NL, Canada · Master of Computer Science student at Memorial University</p>
 
 ---
 
-### Skills and Technologies
+I design and build complete products, from the first Figma frame to a live app. I care about clean interfaces, fast software and shipping things people actually use.
 
-- **Frontend Development:** I'm proficient in HTML, CSS, and JavaScript, and I'm always eager to learn and implement the latest frontend frameworks and libraries. Currently, I'm focusing on learning React to build dynamic and scalable web applications.
-- **GSAP (GreenSock Animation Platform):** I have experience in utilizing GSAP to create smooth and engaging animations on the web.
-- **Bootstrap:** I'm familiar with Bootstrap, a popular CSS framework, which allows me to build responsive and mobile-friendly websites efficiently.
-- **Git:** I use Git for version control, collaborating on projects, and managing code repositories.
-- **C++:** I also have knowledge of C++ programming language, which provides me with a strong foundation in computer science principles.
+### What I've been building
 
-### Additional Skills and Interests
+- **Shopify returns app** at Mallax Vision: designed every page in Figma with Polaris, then built the merchant dashboard, billing, returns portal and live-chat support, all running on AWS.
+- **[ininetwork.ca](https://ininetwork.ca)**: designed, built and launched a non-profit's full website on my own, with forms, surveys and data storage on a low-cost backend-as-a-service.
+- **Mac apps**: [Clipper](https://github.com/fortunehrjr/Clipper), [Ferry](https://github.com/fortunehrjr/Ferry), [Now Playing](https://github.com/fortunehrjr/Now-Playing) and [Orbit](https://github.com/fortunehrjr/Orbit), native Swift/SwiftUI tools tuned to use almost no battery. [See them all →](https://fortunehrjr.github.io/custom-apps/)
 
-- **UI/UX Design:** I'm a creative UI/UX designer, passionate about creating intuitive and user-friendly interfaces. I believe in combining aesthetics with usability to deliver exceptional user experiences.
-- **Arduino:** I have experience working with Arduino, a microcontroller platform, to bring my ideas to life through interactive and hardware-based projects.
-- **Red Hat Linux:** I'm currently expanding my knowledge in Red Hat Linux, exploring the world of open-source systems and server administration.
+### Tools I use
 
-### Projects
+- **Code:** JavaScript · React · GraphQL · HTML/CSS · Swift & SwiftUI · Bash
+- **Platforms:** Shopify apps (Admin API, Polaris, UI extensions) · AWS · BaaS · Git & GitHub
+- **Design:** Figma · design systems · wireframes & user flows · responsive, mobile-first UI · GSAP
+- **Systems:** Linux (RHEL, CentOS) · VMware ESXi · Nutanix
 
-Feel free to explore my repositories to find a collection of projects that demonstrate my frontend development skills, UI/UX design capabilities, and showcase my learning journey.
+### Background
 
-### Contact Me
+- System Administrator at CWG PLC, Lagos: Linux servers, virtualization, access control
+- Led the frontend team at Google Developer Student Club, Caleb University
+- B.Sc. Computer Science, Caleb University · **Red Hat Certified System Administrator (RHCSA)**
 
-I'm always excited to connect with fellow developers and designers, collaborate on projects, and continue learning. You can reach me through the following channels:
+### Get in touch
 
-- Email: 
-  <br> hosearamonjr@gmail.com
-  <br>
-- LinkedIn: [<p>LinkedIn</p>](https://www.linkedin.com/in/fortune-hosea-9b46801a6/)
-- Twitter: [<p>Twitter</p>](https://twitter.com/hosearamonjr)
-- Instagram: [<p>Instagram</p>](https://instagram.com/fortunehr)
-
-Let's connect and create amazing web experiences together!
-
-
-
-<!---
-fortunehrjr/fortunehrjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/fortune-hosea-9b46801a6/) · [Email](mailto:hosearamonjr@gmail.com) · [Twitter](https://twitter.com/hosearamonjr) · [Instagram](https://instagram.com/fortunehr)
