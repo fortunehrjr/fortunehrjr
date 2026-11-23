@@ -26,4 +26,4 @@ I design and build complete products, from the first Figma frame to a live app. 
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/fortune-hosea-9b46801a6/) · [Email](mailto:hosearamonjr@gmail.com) · [Twitter](https://twitter.com/hosearamonjr) · [Instagram](https://instagram.com/fortunehr)
+[LinkedIn](https://www.linkedin.com/in/fortune-hosea-9b46801a6/) · [Twitter](https://twitter.com/hosearamonjr) · [Instagram](https://instagram.com/fortunehr)
